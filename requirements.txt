@@ -1,9 +1,9 @@
 matplotlib
 networkx
 numpy
-pytorch_pretrained_bert
+pytorch-pretrained-bert
 scipy
-sklearn
-torch
+scikit-learn
+pytorch
 torchvision
 tqdm
